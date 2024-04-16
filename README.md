@@ -22,7 +22,6 @@ The project makes use of the following libraries:
 
 # The project is organized as follows:
 
-*  Data: Contains the data used to train the model.
 *  Images: Space for storing images used by API users.
 *  Model: Contains trained models.
 *  Notebooks: Jupyter notebooks where model training and testing are performed.
